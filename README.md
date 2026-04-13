@@ -12,11 +12,19 @@ Operations, Accounting, GRO/PRO, and Digital Solutions Specialist with experienc
 - Workflow improvement and digital solutions
 
 ## Projects I Work On
-- Accounting and financial workflow systems
-- Delivery and shipping management systems
-- Business operations dashboards
-- Administrative systems and reporting tools
-- Workflow automation using n8n
+## Featured Projects
+
+### 1) Accounting & Operations Management System
+A web-based business system designed to support accounting workflows, operational follow-up, reporting, and day-to-day management activities for service businesses.
+
+### 2) Delivery & Shipping Management Platform
+A business platform built to support shipment tracking, delivery operations, driver workflow, and business process organization for logistics and delivery services.
+
+### 3) Workflow Automation with n8n
+Automation workflows designed to improve operational efficiency, reduce manual work, and connect business processes across different steps and tools.
+
+### 4) Business Support & Administrative Solutions
+Digital solutions focused on company operations, employee workflow support, government-related processes, and internal process improvement.
 
 ## Tools & Skills
 - n8n
